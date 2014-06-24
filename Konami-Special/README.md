@@ -1,0 +1,4 @@
+Konami Special
+====
+
+↑ ↑ ↓ ↓ ← → ← → B A
